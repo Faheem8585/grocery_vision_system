@@ -8,8 +8,6 @@ This project implements a complete pipeline for grocery item detection and prici
 ### UI Screenshot
 ![Streamlit UI](assets/ui_screenshot.png)
 
-### Live Detection
-![Demo GIF](assets/demo.gif)
 
 ## Project Structure
 
