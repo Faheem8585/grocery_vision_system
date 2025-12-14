@@ -3,6 +3,14 @@
 
 This project implements a complete pipeline for grocery item detection and pricing, using YOLOv8 and Flask.
 
+## Demo
+
+### UI Screenshot
+![Streamlit UI](assets/ui_screenshot.png)
+
+### Live Detection
+![Demo GIF](assets/demo.gif)
+
 ## Project Structure
 
 - `data/`: Dataset directory (train/valid/test).
